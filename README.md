@@ -1,2 +1,2 @@
 # Ice-Forecasting-and-Consumption
-Data Analysis on Ice Forecasting and Consumption
+In continuation to the project - Analyzing Flow Pattern of Drinks at Einstein Bros bagel, we employed methods of Analyzing and Forecasting, to forecast Ice Consumption for cold drinks and calculate safety stock for ice using POM QM analytical software based on raw data collected from Einstein bagel bro at the CSU EB campus to ensure they don’t run out of ice for their Cold Drinks, whilst maintaining the optimal inventory level of ice each day.
